@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\Old_School.ncd
+OUTFILE=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\Old_School.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3
+LICENSE=WebPack
+USER_INFO=0_0_939

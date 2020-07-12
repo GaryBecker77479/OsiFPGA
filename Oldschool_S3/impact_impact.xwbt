@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\impact.xsl
+OUTFILE=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3
+LICENSE=iMPACT
+USER_INFO=iMPACT

@@ -1,0 +1,4 @@
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o Old_School_map.ncd Old_School.ngd Old_School.pcf 
+par -w -intstyle ise -ol high -t 1 Old_School_map.ncd Old_School.ncd Old_School.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -xml Old_School.twx Old_School.ncd -o Old_School.twr Old_School.pcf -ucf Old_School.ucf 
+bitgen -intstyle ise -f Old_School.ut Old_School.ncd 

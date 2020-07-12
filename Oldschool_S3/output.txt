@@ -1,0 +1,13 @@
+Storage Target: Xilinx Flash/PROM
+Storage Family: Platform Flash
+xcf04s          [4 M]
+FF
+Oldschool
+C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\
+
+MCS
+No
+chool\
+
+MCS
+No

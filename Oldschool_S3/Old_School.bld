@@ -1,0 +1,53 @@
+Release 12.3 ngdbuild M.70d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\12.3\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc Old_School.ucf -p xc3s1000-ft256-4
+Old_School.ngc Old_School.ngd
+
+Reading NGO file "C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/Old_School.ngc"
+...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "Old_School.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<10>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<11>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<12>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<0>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<13>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<1>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<14>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<2>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<15>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<3>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<4>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<5>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<6>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<7>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<8>' has no legal driver
+WARNING:NgdBuild:470 - bidirect pad net 'RAM_DATA1<9>' has no legal driver
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:  16
+
+Total memory usage is 144292 kilobytes
+
+Writing NGD file "Old_School.ngd" ...
+Total REAL time to NGDBUILD completion:  6 sec
+Total CPU time to NGDBUILD completion:   4 sec
+
+Writing NGDBUILD log file "Old_School.bld"...

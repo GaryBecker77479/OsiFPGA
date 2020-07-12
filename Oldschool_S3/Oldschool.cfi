@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator M.70d
+# Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION M.70d
+DATE            07/22/2011 - 10:13
+SOURCE          C:\Users\gbecker\Dropbox\Xilinx\Oldschool_S3\Oldschool.mcs
+DEVICE          XCF04S
+DATA_WIDTH      8
+FILL_DATA       0xFF
+SIGNATURE       0x021B69E0
+START_ADDRESS   0x00000000 END_ADDRESS 0x000625F7 DIRECTION_UP   "C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/old_school.bit" 3s1000ft256

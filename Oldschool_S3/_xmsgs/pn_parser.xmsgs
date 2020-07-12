@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1062" ><arg fmt="%s" index="1">Parsing Verilog file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">650</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_f8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 650
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">651</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_f0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 651
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">652</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_e8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 652
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">653</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_d8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 653
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">654</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_c8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 654
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">655</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_b8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 655
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">656</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_b0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 656
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">657</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_a8.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 657
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">658</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/rom_a0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 658
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">666</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/ram_e0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 666
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">667</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/ram_d0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 667
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v</arg>&quot; Line <arg fmt="%d" index="2">668</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/ram_c0.v&apos; in file &quot;C:/Users/Gary Becker/Dropbox/Xilinx/Oldschool_S3/Old_School.v&quot; line 668
+</arg>
+</msg>
+
+</messages>
+

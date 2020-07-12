@@ -1,0 +1,13 @@
+EN t65_mcode NULL C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65_MCode.vhd sub00/vhpl01 1311346814
+AR t65_alu rtl C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65_ALU.vhd sub00/vhpl04 1311346817
+AR t65 rtl C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65.vhd sub00/vhpl06 1311346819
+MO ps2_keyboard NULL ../../PS2_Key/ps2_keyboard.v vlg39/ps2__keyboard.bin 1311346814
+MO glb6850 NULL ../../UART_6850/uart_6850.v vlg4C/glb6850.bin 1311346814
+EN t65_alu NULL C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65_ALU.vhd sub00/vhpl03 1311346816
+EN t65 NULL C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65.vhd sub00/vhpl05 1311346818
+PH t65_pack NULL C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65_Pack.vhd sub00/vhpl00 1311346813
+MO UART_RX NULL ../../UART_6850/6850RX.v vlg61/_u_a_r_t___r_x.bin 1311346813
+MO Old_School NULL Old_School.v vlg1A/_old___school.bin 1311346814
+MO VIDEO NULL video.v vlg67/_v_i_d_e_o.bin 1311346814
+MO UART_TX NULL ../../UART_6850/6850TX.v vlg6B/_u_a_r_t___t_x.bin 1311346813
+AR t65_mcode rtl C:/Users/gbecker/Dropbox/Xilinx/Oldschool_S3/T65_MCode.vhd sub00/vhpl02 1311346815
